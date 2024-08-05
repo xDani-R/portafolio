@@ -27,6 +27,30 @@
    margin-left: 20%;
 }
 
+.icono {
+   width: 35px;
+   height: 39px;
+}
+.iconogit {
+   width: 35px;
+   height: 39px;
+}
+
+.proyect1 {
+   width: 345px;
+   height: 250px;
+}
+
+.proyect2 {
+   width: 345px;
+   height: 250px;
+}
+
+.proyect3 {
+   width: 360px;
+   height: 260px;
+}
+
 
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
